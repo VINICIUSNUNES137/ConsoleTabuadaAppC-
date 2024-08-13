@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\MeuAppConsole\MeuAppConsole\bin\Debug\net8.0\MeuAppConsole.exe
+C:\Users\vinic\source\repos\MeuAppConsole\MeuAppConsole\bin\Debug\net8.0\MeuAppConsole.deps.json
+C:\Users\vinic\source\repos\MeuAppConsole\MeuAppConsole\bin\Debug\net8.0\MeuAppConsole.runtimeconfig.json
+C:\Users\vinic\source\repos\MeuAppConsole\MeuAppConsole\bin\Debug\net8.0\MeuAppConsole.dll
+C:\Users\vinic\source\repos\MeuAppConsole\MeuAppConsole\bin\Debug\net8.0\MeuAppConsole.pdb
+C:\Users\vinic\source\repos\MeuAppConsole\MeuAppConsole\obj\Debug\net8.0\MeuAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\MeuAppConsole\MeuAppConsole\obj\Debug\net8.0\MeuAppConsole.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\MeuAppConsole\MeuAppConsole\obj\Debug\net8.0\MeuAppConsole.AssemblyInfo.cs
+C:\Users\vinic\source\repos\MeuAppConsole\MeuAppConsole\obj\Debug\net8.0\MeuAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\MeuAppConsole\MeuAppConsole\obj\Debug\net8.0\MeuAppConsole.dll
+C:\Users\vinic\source\repos\MeuAppConsole\MeuAppConsole\obj\Debug\net8.0\refint\MeuAppConsole.dll
+C:\Users\vinic\source\repos\MeuAppConsole\MeuAppConsole\obj\Debug\net8.0\MeuAppConsole.pdb
+C:\Users\vinic\source\repos\MeuAppConsole\MeuAppConsole\obj\Debug\net8.0\MeuAppConsole.genruntimeconfig.cache
+C:\Users\vinic\source\repos\MeuAppConsole\MeuAppConsole\obj\Debug\net8.0\ref\MeuAppConsole.dll
